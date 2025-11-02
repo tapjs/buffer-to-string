@@ -2,7 +2,7 @@
   "name": "@isaacs/buffer-to-string",
   "version": "1.0.0",
   "description": "A better Buffer.toString()",
-  "license": "MIT",
+  "license": "BlueOak-1.0.0",
   "repository": "git@github.com:tapjs/buffer-to-string",
   "engines": {
     "node": ">=18"
