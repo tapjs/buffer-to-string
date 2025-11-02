@@ -1,14 +1,9 @@
 {
-  "name": "buffer-to-string",
+  "name": "@isaacs/buffer-to-string",
   "version": "1.0.0",
   "description": "A better Buffer.toString()",
   "license": "MIT",
-  "repository": "tapjs/buffer-to-string",
-  "author": {
-    "name": "James Talmage",
-    "email": "james@talmage.io",
-    "url": "github.com/jamestalmage"
-  },
+  "repository": "git@github.com:tapjs/buffer-to-string",
   "engines": {
     "node": ">=18"
   },
@@ -26,13 +21,6 @@
   },
   "files": [
     "dist"
-  ],
-  "keywords": [
-    "buffer",
-    "string",
-    "beautify",
-    "pretty",
-    "print"
   ],
   "devDependencies": {
     "prettier": "^3.6.2",
