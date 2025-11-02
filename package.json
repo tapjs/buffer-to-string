@@ -1,6 +1,6 @@
 {
   "name": "@isaacs/buffer-to-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A better Buffer.toString()",
   "license": "BlueOak-1.0.0",
   "repository": "git@github.com:tapjs/buffer-to-string",
