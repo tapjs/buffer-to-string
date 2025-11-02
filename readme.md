@@ -8,7 +8,7 @@ two-character bytes, with a customizable line wrap width.
 ## Install
 
 ```
-$ npm install --save buffer-to-string
+$ npm install --save @isaacs/buffer-to-string
 ```
 
 ## Usage
